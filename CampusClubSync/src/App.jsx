@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className='text-4xl text-white bg-orange-700'>jai shree kishna</h1>
+     <h1 className='text-4xl text-white bg-orange-700'>jai shree kishna 🦚 </h1>
     </>
   )
 }
