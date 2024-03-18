@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <h1 className='text-4xl text-white bg-orange-700 p-4'> jai shree kishna 🦚 </h1>
-     <h2 className="text-3xl text-blue">Welcome to CampusClubSync</h2>
+     <h2 className="text-3xl text-blue bg-red-200">Welcome to CampusClubSync</h2>
     </>
   )
 }
